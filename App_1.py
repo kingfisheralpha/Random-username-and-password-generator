@@ -12,7 +12,7 @@ var=IntVar()
 t_p=StringVar(win_1)
 t_u=StringVar(win_1)
 
-path_=os.getcwd()+'\\'+'input'+'\\'
+path_=os.getcwd()+'\\'
 
 class window_1:
     def __init__(self,master):
